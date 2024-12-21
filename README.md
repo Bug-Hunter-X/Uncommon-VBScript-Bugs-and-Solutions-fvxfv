@@ -1,0 +1,1 @@
+This repository demonstrates some uncommon bugs that can arise in VBScript and provides solutions to address these issues.  The bugs highlight the challenges associated with late binding, implicit type conversions, and the limitations of VBScript's error-handling mechanisms.  The provided solutions focus on improving code robustness, readability, and maintainability.
